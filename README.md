@@ -1,4 +1,4 @@
-# Solar Radiation Forecasting — Al-Zilfi, Saudi Arabia
+# Solar Radiation Forecasting, Al-Zilfi, Saudi Arabia
 
 A systematic evaluation of 52 published global solar radiation models against
 7-year averaged data for Al-Zilfi, Saudi Arabia, followed by locally calibrated
@@ -6,7 +6,7 @@ regression modeling. Conducted as a research internship at KACST under the
 supervision of Prof. Zaki Almustafa.
 
 **Key result:** The locally calibrated quadratic model achieves an RMSE of
-**0.0189** — a 65% improvement over the best-performing global model (RMSE=0.0547).
+**0.0189**, a 65% improvement over the best-performing global model (RMSE=0.0547).
 
 ## What This Project Does
 
